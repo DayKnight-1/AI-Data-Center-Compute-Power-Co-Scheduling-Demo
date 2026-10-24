@@ -47,7 +47,7 @@ cd AI-Data-Center-Compute-Power-Co-Scheduling-Demo
 
 # 2. Create a virtual environment (recommended)
 python -m venv .venv
-# Windows
+# Windows (If PowerShell blocks scripts, run: Set-ExecutionPolicy Bypass -Scope Process)
 .venv\Scripts\activate
 # macOS / Linux
 source .venv/bin/activate
