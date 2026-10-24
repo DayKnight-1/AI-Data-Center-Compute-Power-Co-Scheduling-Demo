@@ -42,8 +42,8 @@ Built as a hackathon submission for the Track 2 problem statement (AI data cente
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/DayKnight-1/AI-Data-Center-Compute-Power-Co-Scheduling-Demo.git
+cd AI-Data-Center-Compute-Power-Co-Scheduling-Demo
 
 # 2. Create a virtual environment (recommended)
 python -m venv .venv
